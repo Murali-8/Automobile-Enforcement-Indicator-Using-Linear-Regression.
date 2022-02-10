@@ -1,2 +1,2 @@
 # Vehicle-Performance-Prediction-Using-Logistic-Regression-
-Prediction of vehicles mileage performance.
+Objective : Prediction of vehicles mileage performance.
